@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="AdvancedPane.xaml" />
+    <File Path="AdvancedPane.xaml.cs" />
+  </Folder>
+  <Project Path="ServerStartupSuite.csproj" Id="47a43c06-737e-40fd-8673-cd1d030fdc10" />
+</Solution>
