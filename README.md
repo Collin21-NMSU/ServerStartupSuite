@@ -3,7 +3,7 @@ A Software suite designed to automate and simplify baseline AD/DS services, work
 
 ---
 ## Features
-* **WPF Management Interface:** Provides a responsive, desktop GUI built with C# and XALM for controlling tasks.
+* **WPF Management Interface:** Provides a responsive, desktop GUI built with C# and XAML for controlling tasks.
 * **Automated AD/DS Setup:** Streamlines the deployment and configuration of core domain services.
 * **Workstation Hardening:** applies baseline security configs to reinforce endpoints.
 * **Environment Validation:** Runs diagnostic checks to ensure readiness.
